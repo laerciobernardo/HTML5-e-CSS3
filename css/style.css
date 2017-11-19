@@ -3,15 +3,15 @@ body{
     line-height: 1.6;
     font-family: sans-serif;
 }
-h1{
+header h1{
     text-align: center;
 }
-h1 a{
+header h1 a{
     text-decoration: none;
     color: #6f448a;
 }
 
-h1 a:hover{
+header h1 a:hover{
     background-color: #6f448a;
     color: 	#bfbfbf;
 }
@@ -25,12 +25,12 @@ h1 a:hover{
     clear: both;
 }
 
-.places{
+section{
     float: left;
     width: 660px;
 }
 
-.place{
+article{
     margin-bottom: 30px;
     background-color: #fff;
     padding: 10px;
@@ -38,12 +38,12 @@ h1 a:hover{
     border-color: #ccc #000000 #000000 #ccc;
 }
 
-.place h2{
+article h2{
     margin: 0 0 0 10px; 
     border-bottom: 1px dashed 	#20a0b1;
 }
 
-.place img{
+article img{
     width: 200px;
     height: 200px;
     float: left;
@@ -52,7 +52,7 @@ h1 a:hover{
     padding: 2px;
 }
 
-.sidebar{
+aside{
     width: 260px;
     background: #eeeeee;
     float: right;
@@ -60,7 +60,7 @@ h1 a:hover{
     font-size: 12px;
 }
 
-.footer{
+footer{
     text-align: center;
     font-size: 12px;
 }
