@@ -22,3 +22,4 @@
  - Entendendo o box model
  - Trabalhando com pseudo elementos
  - Entendendo e trabalhando com OOCSS
+ - Trabalhando com Media Print e pseudoelementos para impressão
