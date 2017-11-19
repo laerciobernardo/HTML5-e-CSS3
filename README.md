@@ -19,5 +19,6 @@
  - Adicionando a classe clear no footer
  - Alterando as referências das classes aos novos elementos HTML5 no CSS
  # Capítulo 4
-  - Entendendo o box model
-  - Trabalhando com pseudo elementos
+ - Entendendo o box model
+ - Trabalhando com pseudo elementos
+ - Entendendo e trabalhando com OOCSS
